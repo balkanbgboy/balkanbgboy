@@ -1,10 +1,9 @@
-##  Hi there 👋 I'm Ivan Madolev
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ivan Madolev
 `Network Engineer and Consultant, Cloud and DevOps  Enthusiast`
 
 - 👀 I’m interested in SDN implementation, DevOps and Python
 - 🌱 I’m currently working on all things related to network, automation,cloud solution.
-- 💞️ I’m looking to collaborate on any DevOps and SDN related topic
+- 💞️ I’m looking to collaborate on any DevOps and SDN related topics
 
 <!-- Actual text -->
 
