@@ -2,7 +2,7 @@
 `Network Engineer and Consultant, Cloud and DevOps  Enthusiast`
 
 - 👀 I’m interested in SDN implementation, DevOps and Python
-- 🌱 I’m currently working on all things related to network, automation,cloud solution.
+- 🌱 I’m currently working on all things related to network, automation,cloud solutions on AWS, Azure and GCP.
 - 💞️ I’m looking to collaborate on any DevOps and SDN related topics
 
 <!-- Actual text -->
