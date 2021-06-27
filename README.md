@@ -5,6 +5,7 @@
 - 🌱 I’m currently working on all things related to network, automation,cloud solutions on AWS, Azure and GCP.
 - 💞️ I’m looking to collaborate on any DevOps and SDN related topics
 
+
 <!-- Actual text -->
 
  ## You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
@@ -31,7 +32,6 @@
 <br />
 <br />
 
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=balkanbgboy)](https://github.com/balkanbgboy/github-readme-stats)
 
 <!---
 balkanbgboy/balkanbgboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
