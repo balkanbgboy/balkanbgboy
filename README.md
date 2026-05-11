@@ -10,6 +10,7 @@ I design and operate enterprise networks across data center, branch, and cloud �
 
 #### What I'm into
 - 🛠️ Building tools for network engineers — see [**net-tool-imadol.com**](https://net-tool-imadol.com/)
+- ☸️ [**K8s AI Agent**](https://github.com/balkanbgboy/K8s-AI-Agent-GUI) — natural-language Kubernetes dashboard (LangChain + Gemini); chat-driven deployments, live cluster view, multi-cluster (minikube → EKS / GKE / on-prem)
 - 🌐 SDN (Cisco ACI), SD-WAN (Meraki / Cisco / Fortinet), DMVPN, firewalls
 - ☁️ Multi-cloud networking — AWS, Azure, GCP
 - 🤖 Automation with Python, Ansible, Bash
