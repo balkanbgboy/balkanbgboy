@@ -19,8 +19,8 @@ I design and operate enterprise networks across data center, branch, and cloud �
 DevOps and SDN collaborations, interesting infrastructure problems, or just talking shop.
 
 #### Find me
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
-- 🐦 [Twitter / X](https://twitter.com/YOUR-HANDLE)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ivanmadolev)
+- 🐦 [Twitter / X](https://twitter.com/IvanBalkbg)
 
 ---
 
